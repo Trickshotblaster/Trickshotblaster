@@ -1,6 +1,7 @@
 <h1>Trickshotblaster</h1>
-aka brogrammer
 
+(aka brogrammer)
+<br>
 
 - 👀 I’m interested in lots of things, but mostly programming, artificial intelligence, and 3d art, as well as game design
 - 🌱 I’m currently learning more about making websites with html/css and JavaScript, and also more about neural network backpropagation
