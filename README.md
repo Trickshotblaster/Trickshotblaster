@@ -3,8 +3,8 @@
 (aka brogrammer)
 <br>
 
-- 👀 I’m interested in lots of things, but mostly programming, artificial intelligence in pytorch, and 3d art, as well as game design
-- 🌱 I’m currently learning more about making websites with html/css and JavaScript, and also more about neural network backpropagation in pytorch. I highly recommend Andrej Karpathy's Zero to Hero series on neural nets!
+- 👀 I’m interested in lots of things, but mostly programming, deep learning in pytorch, and 3d art, as well as game design
+- 🌱 I’m currently learning about  performance developments in GPU-accelerated language modeling such as Grouped Query Attention and trying to apply them to my own small models. I highly recommend Andrej Karpathy's Zero to Hero series on neural nets for anyone who wants to get started in deep learning!
 
 [![Trickshotblaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trickshotblaster&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
