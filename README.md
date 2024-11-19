@@ -3,7 +3,7 @@
 (aka brogrammer)
 <br>
 ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=Pytorch&logoColor=white)
-
+(thanks @someonecantcode)
 - 👀 I’m interested in lots of things, but mostly programming, deep learning in pytorch, and 3d art, as well as game design
 - 🌱 I’m currently learning about  performance developments in GPU-accelerated language modeling such as Grouped Query Attention and trying to apply them to my own small models. I highly recommend Andrej Karpathy's Zero to Hero series on neural nets for anyone who wants to get started in deep learning!
 
