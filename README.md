@@ -1,11 +1,19 @@
 <h1>Trickshotblaster</h1>
 
 (aka brogrammer)
-<br>
-![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=Pytorch&logoColor=white)
-(thanks @someonecantcode)
+
+
+![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=Pytorch&logoColor=white)\
+thanks @someonecantcode !
+
+# My Interests
 - 👀 I’m interested in lots of things, but mostly programming, deep learning in pytorch, and 3d art, as well as game design
-- 🌱 I’m currently learning about  performance developments in GPU-accelerated language modeling such as Grouped Query Attention and trying to apply them to my own small models. I highly recommend Andrej Karpathy's Zero to Hero series on neural nets for anyone who wants to get started in deep learning!
+
+# What I'm Working On
+- 🌱 I’m currently learning about RWKV models and RLHF with Group Relative Policy Optimization from the deepseek-r1 paper (https://arxiv.org/abs/2501.12948). Here is a kaggle notebook I made with a simple implementation: https://www.kaggle.com/code/br0grammer/group-relative-policy-optimization. I highly recommend Andrej Karpathy's Zero to Hero series on neural nets for anyone who wants to get started in deep learning!
+
+# Languages and Tools
+- I do most of my work in python, though I do enjoy web dev from time to time. I use PyTorch for deep learning and train tiny but powerful models on my own GPU.
 
 [![Trickshotblaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trickshotblaster&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
